@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-02T07:22:49 IST" name="Surefire suite" finished-at="2025-12-02T07:23:04 IST" duration-ms="15089">
+  <suite started-at="2025-12-02T08:34:27 IST" name="Surefire suite" finished-at="2025-12-02T08:34:43 IST" duration-ms="16281">
     <groups>
     </groups>
-    <test started-at="2025-12-02T07:22:49 IST" name="Surefire test" finished-at="2025-12-02T07:23:04 IST" duration-ms="15089">
+    <test started-at="2025-12-02T08:34:27 IST" name="Surefire test" finished-at="2025-12-02T08:34:43 IST" duration-ms="16281">
       <class name="com.testng.AlertsTest">
-        <test-method signature="main()[pri:0, instance:com.testng.AlertsTest@2f112965]" started-at="2025-12-02T07:22:49 IST" name="main" finished-at="2025-12-02T07:23:04 IST" duration-ms="15054" status="PASS">
+        <test-method signature="main()[pri:0, instance:com.testng.AlertsTest@2f112965]" started-at="2025-12-02T08:34:27 IST" name="main" finished-at="2025-12-02T08:34:43 IST" duration-ms="16253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->

@@ -16,11 +16,9 @@ public class AlertsTest {
 	public void main() throws InterruptedException {
 		// simple alerts 
 		
-		ChromeOptions options = new ChromeOptions();
-		options.addArguments("--headless=new");
-		options.addArguments("--window-size=1920,1080");
 		
-		WebDriver driver =new ChromeDriver(options);
+		
+		WebDriver driver =new ChromeDriver();
 
 			
 		driver.manage().window().maximize();
