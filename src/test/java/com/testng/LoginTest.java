@@ -10,8 +10,18 @@ import com.beust.jcommander.Parameter;
 
 public class LoginTest {
 	
-	@Parameters({"username","password"})
+	@Parameters()
 	
+	public String[][] getdata(){
+		
+		String[][] data = new String[2][2];
+		
+		data[0][0]= "admin";
+		data[0][1]= "pass123";
+		
+		return data;
+		
+	}
 	
 	@Test
 	  
