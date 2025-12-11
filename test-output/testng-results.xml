@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-11T10:08:34 IST" name="Suite" finished-at="2025-12-11T10:08:53 IST" duration-ms="19093">
+    <groups>
+    </groups>
+    <test started-at="2025-12-11T10:08:34 IST" name="Test" finished-at="2025-12-11T10:08:53 IST" duration-ms="19093">
+      <class name="com.testng.day1.DependsOnMethod">
+        <test-method signature="Login()[pri:0, instance:com.testng.day1.DependsOnMethod@18920cc]" started-at="2025-12-11T10:08:34 IST" name="Login" finished-at="2025-12-11T10:08:47 IST" duration-ms="12448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="SimpleAlert()[pri:0, instance:com.testng.day1.DependsOnMethod@18920cc]" started-at="2025-12-11T10:08:47 IST" name="SimpleAlert" finished-at="2025-12-11T10:08:47 IST" depends-on-methods="com.testng.day1.DependsOnMethod.Login" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SimpleAlert -->
+      </class> <!-- com.testng.day1.DependsOnMethod -->
+      <class name="com.testng.AlertsTest">
+        <test-method signature="main()[pri:0, instance:com.testng.AlertsTest@2c532cd8]" started-at="2025-12-11T10:08:34 IST" name="main" finished-at="2025-12-11T10:08:53 IST" duration-ms="19054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.testng.AlertsTest -->
+      <class name="com.testng.day1.Priority">
+        <test-method signature="login()[pri:1, instance:com.testng.day1.Priority@5f6722d3]" started-at="2025-12-11T10:08:34 IST" name="login" finished-at="2025-12-11T10:08:34 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="SearchProduct()[pri:2, instance:com.testng.day1.Priority@5f6722d3]" started-at="2025-12-11T10:08:34 IST" name="SearchProduct" finished-at="2025-12-11T10:08:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchProduct -->
+        <test-method signature="cart()[pri:3, instance:com.testng.day1.Priority@5f6722d3]" started-at="2025-12-11T10:08:34 IST" name="cart" finished-at="2025-12-11T10:08:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="buy()[pri:4, instance:com.testng.day1.Priority@5f6722d3]" started-at="2025-12-11T10:08:34 IST" name="buy" finished-at="2025-12-11T10:08:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy -->
+        <test-method signature="Logoff()[pri:5, instance:com.testng.day1.Priority@5f6722d3]" started-at="2025-12-11T10:08:34 IST" name="Logoff" finished-at="2025-12-11T10:08:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logoff -->
+      </class> <!-- com.testng.day1.Priority -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

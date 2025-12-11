@@ -1,0 +1,23 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   target/classes/META-INF/maven/Maven_selenium/Selenium_Testing/pom.properties
+#	modified:   test-output/Default suite/Default test.html
+#	modified:   test-output/Default suite/Default test.xml
+#	modified:   test-output/Default suite/testng-failed.xml
+#	modified:   test-output/emailable-report.html
+#	modified:   test-output/index.html
+#	modified:   test-output/testng-failed.xml
+#	modified:   test-output/testng-results.xml
+#
+# Untracked files:
+#	ScreenShot/
+#	src/main/java/com/interviewquestion/
+#	src/test/java/com/testng/day1/
+#	target/classes/com/interviewquestion/
+#	target/test-classes/com/testng/day1/
+#	test-output/junitreports/TEST-com.testng.day1.DependsOnMethod.xml
+#
